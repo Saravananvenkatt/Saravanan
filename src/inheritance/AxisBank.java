@@ -7,7 +7,7 @@ public class AxisBank{
    
    public final void m3() {
   System.out.println("xxxxx");
-  System.out.println("yyyyy");
+  System.out.println("yyy");
 }
 
 	
